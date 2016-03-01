@@ -1,2 +1,2 @@
 # vim-php-jump
-PHP code lookup alternative to tags
+PHP code lookup in alternative to tags in Vim
