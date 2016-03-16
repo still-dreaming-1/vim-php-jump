@@ -1,5 +1,5 @@
-# vim-php-jump
 [![Join the chat at https://gitter.im/still-dreaming-1/vim-php-jump](https://badges.gitter.im/still-dreaming-1/vim-php-jump.svg)](https://gitter.im/still-dreaming-1/vim-php-jump?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+# vim-php-jump
 
 PHP code lookup alternative to tags for Vim.
 
