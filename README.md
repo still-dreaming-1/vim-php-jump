@@ -1,6 +1,7 @@
 # vim-php-jump
 
 [![Join the chat at https://gitter.im/still-dreaming-1/vim-php-jump](https://badges.gitter.im/still-dreaming-1/vim-php-jump.svg)](https://gitter.im/still-dreaming-1/vim-php-jump?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 PHP code lookup alternative to tags for Vim.
 
 Ever get tired of multiple tag name matches? Do you have IDE envy when jumping to the definition of some code using tags in Vim does not use the cursor context to figure out which tag to use? Enter vim-php-jump!
